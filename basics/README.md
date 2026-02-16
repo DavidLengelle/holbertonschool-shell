@@ -1,6 +1,4 @@
-# Title
-
-command directory path## 📄 <span id="description">Description</span>
+# command directory path## 📄 <span id="description">Description</span>
 
 The project description.
 
