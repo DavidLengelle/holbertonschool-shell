@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -3 iacta
+cat iacta | wc -l
