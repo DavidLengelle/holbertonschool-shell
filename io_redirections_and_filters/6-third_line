@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta | wc -l
+head -n 3 iacta | tail -n 1
