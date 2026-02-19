@@ -1,0 +1,2 @@
+#!/bin/bash
+echo sort | grep "a,a" "o,o*" | wc -l
