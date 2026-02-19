@@ -1,2 +1,2 @@
 #!/bin/bash
-echo sort | grep "a,a" "o,o*" | wc -l
+printf "%s\n" {a..z}{a..z} | grep -v oo
