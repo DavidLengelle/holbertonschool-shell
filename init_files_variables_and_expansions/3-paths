@@ -1,2 +1,2 @@
 #!/bin/bash
-export $PATH | wc -type d
+echo $PATH | ls -type d | wc -l 
